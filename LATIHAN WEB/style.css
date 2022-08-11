@@ -1,0 +1,18 @@
+html {
+    background-image: url("img/abcd.jpg");
+    background-repeat: no-repeat;
+    background-size:cover
+}
+
+body {
+    color: white;
+}
+
+frameset {
+    color: white;
+}
+
+img {
+    width: 50%;
+    height: 50%;
+}
